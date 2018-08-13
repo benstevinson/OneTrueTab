@@ -3,9 +3,8 @@
     "version": "1.0.0",
     "manifest_version": 2,
     "description": "OneTrueTab limits each Chrome window to one open tab at a time.",
-	"permissions": ["tabs"],
 	"background": {
 		"scripts": ["background.js"],
 		"persistent": false
 	  }
-}
+}	
